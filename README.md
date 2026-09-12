@@ -2,7 +2,7 @@
 
 An independent Namibian football archive designed for public discovery, with a separate private owner dashboard and invitation-based tester workspace.
 
-**Status:** implementation and local verification, 12 September 2026. A production deployment has not yet been verified. The intended hostname is `kickoff-nam.pages.dev`, subject to availability. This case study is not a claim that the service is already live or that its football coverage is complete.
+**Status:** public archive live at [kickoff-nam.pages.dev](https://kickoff-nam.pages.dev/), 12 September 2026. Private Access identity and tester acceptance remain gated. This case study is not a claim that the football coverage is complete.
 
 ## The problem
 
@@ -12,6 +12,7 @@ Namibian football information is spread across dated squad announcements, govern
 
 - Searchable profiles for 103 players, including 43 provisional youth selections and 23 Brave Gladiators squad records.
 - 28 club-directory entries, all 14 regional associations, competition pathways, coaching resources and selected match archives.
+- 22 NFA-sourced club marks with source-aware attribution; six clubs retain explicit initials placeholders where a confident official match was unavailable.
 - Five attributed archival photographs, each retaining its original source, author and reuse terms.
 - Historical affiliation notes and source links rather than unsupported current-club assertions.
 - Mobile controls, keyboard-accessible profiles, CSV export and explicit coverage limitations.
@@ -53,7 +54,7 @@ The full standalone browser regression suite remains incomplete because the host
 
 ## Next release gates
 
-Connect the actual Cloudflare identity application and dedicated database, verify the deployment and private-route behavior, finish browser failure/zoom checks, agree tester-data retention, and record the verified production URL. Complete the identity-policy review and owner MFA enrollment before broad tester onboarding.
+Configure the actual Cloudflare Access identity application and Pages-to-D1 binding, complete owner sign-in and private-route acceptance, finish browser failure/zoom checks, agree tester-data retention, and complete owner MFA enrollment before broad tester onboarding. The public URL is already verified; no tester credentials have been issued.
 
 ## Reusable lesson
 
