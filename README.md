@@ -2,7 +2,7 @@
 
 An independent Namibian football archive designed for public discovery, with a separate private owner dashboard and invitation-based tester workspace.
 
-**Status:** implementation and local verification, 12 September 2026. A production deployment has not yet been verified. The intended hostname is `kickoff-nam.pages.dev`, subject to availability. This case study is not a claim that the service is already live or that its football coverage is complete.
+**Status:** implementation and local verification, 12 September 2026. A production deployment has not yet been verified. The intended hostname is `omutambo.pages.dev`, subject to availability. This case study is not a claim that the service is already live or that its football coverage is complete.
 
 ## The problem
 
