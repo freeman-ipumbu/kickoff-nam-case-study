@@ -2,13 +2,11 @@
 
 An independent Namibian football archive designed for public discovery, with a separate private owner dashboard and invitation-based tester workspace.
 
-**Status:** public archive live at [kickoff-nam.pages.dev](https://kickoff-nam.pages.dev/), 12 September 2026. Private Access identity and tester acceptance remain gated. This case study is not a claim that the football coverage is complete.
+**Status:** public archive live at [kickoff-nam.pages.dev](https://kickoff-nam.pages.dev/). Brand artwork refreshed 23 September 2026; the recorded archive scope was reviewed 12 September 2026. Private Access identity and tester acceptance remain gated. This case study is not a claim that the football coverage is complete.
 
 <p align="center">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/1200px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
+  <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive brand artwork" width="100%">
 </p>
-
-<p align="center"><sub>Sam Nujoma Stadium, Windhoek · <a href="https://commons.wikimedia.org/wiki/File:SamNujomaStadium.JPG">original photograph and attribution</a></sub></p>
 
 ## The problem
 
@@ -24,6 +22,14 @@ Namibian football information is spread across dated squad announcements, govern
 - Mobile controls, keyboard-accessible profiles, CSV export and explicit coverage limitations.
 
 These counts describe collected archive entries. They do not establish complete national coverage, active registrations or live data feeds.
+
+### Archive context
+
+<p align="center">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/1200px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
+</p>
+
+<p align="center"><sub>Sam Nujoma Stadium, Windhoek · <a href="https://commons.wikimedia.org/wiki/File:SamNujomaStadium.JPG">original photograph and attribution</a></sub></p>
 
 ## Public browsing, private administration
 
