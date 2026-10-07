@@ -26,7 +26,7 @@ These counts describe collected archive entries. They do not establish complete 
 ### Archive context
 
 <p align="center">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/1200px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
 </p>
 
 <p align="center"><sub>Sam Nujoma Stadium, Windhoek · <a href="https://commons.wikimedia.org/wiki/File:SamNujomaStadium.JPG">original photograph and attribution</a></sub></p>
