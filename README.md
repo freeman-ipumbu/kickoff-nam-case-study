@@ -75,3 +75,7 @@ Keep public content public and put administrative power behind server-enforced o
 ## Scope of this repository
 
 This repository is documentation only. It does not contain private application source, account credentials, real tester identities, invitation tokens or a database export. Photograph licences belong to their respective authors; this case study does not relicense those assets.
+
+---
+
+Independent archive case study by [Freeman Ipumbu](https://github.com/freeman-ipumbu), presented within the [SolarSpin Technologies public work atlas](https://www.solarspin-namibia.xyz/).
